@@ -1,4 +1,3 @@
-import React from "react";
 export default function ContactSection() {
   return (
     <div className="font-mono flex gap-4">
