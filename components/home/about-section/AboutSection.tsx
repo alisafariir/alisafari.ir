@@ -11,11 +11,10 @@ export default function AboutSection() {
           Front-End &#123;Developer&#125; & Designer
         </span>
         <p className="text-justify mt-3 ">
-          With over 15 years in front-end development and design, I possess a
-          unique dual-perspective: the eye of a designer and the mind of a
-          developer. I specialize in constructing robust, high-performance web
-          interfaces that are both beautiful to look at and effortless to use.
-          This hands-on expertise was fundamental in my role as a co-founder of{" "}
+          For over 15 years, I&apos;ve been passionate about both designing and
+          building websites. I love working where looks meet logic – creating
+          interfaces that don&apos;t just function well, but also feel right to
+          use. I was also one of the co-founders at{" "}
           <a
             className="border-b border-primary"
             href="https://ui.acorex.io/"
@@ -23,11 +22,11 @@ export default function AboutSection() {
           >
             ACoreX
           </a>
-          , where I helped translate a vision into a tangible and impactful
-          product. My core philosophy is that great front-end work is
-          invisible—it simply works, feels right, and delivers the user to their
-          goal without friction. I thrive on solving complex problems with
-          elegant, future-proof solutions.
+          , where I got to turn ideas into a real product people use. My goal is
+          always to make things that are clear, intuitive, and genuinely helpful
+          – without overcomplicating it. Good front-end, to me, is when the user
+          doesn&apos;t even notice it&apos;s there; they just achieve what they
+          came to do.
         </p>
       </div>
       <div className="col-span-4 flex items-end order-first md:order-last ">
