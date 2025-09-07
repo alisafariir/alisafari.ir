@@ -1,6 +1,6 @@
 export default function ContactSection() {
   return (
-    <div className="font-mono flex gap-4">
+    <div className="font-mono flex flex-wrap gap-4">
       <a href="https://www.linkedin.com/in/alisafariir/" target="_blank">
         Linkedin
       </a>
@@ -15,6 +15,9 @@ export default function ContactSection() {
       </a>
       <a href="https://t.me/alishonsafari" target="_blank">
         Telegram
+      </a>
+      <a href="mailto:alishon.safari@gmail.com" target="_blank">
+        Mail
       </a>
     </div>
   );

@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function AboutSection() {
   return (
-    <div className="px-6 md:px-0 ">
+    <>
       <h1 className="text-6xl font-black text-center md:text-start">
         ALI SAFARI
       </h1>
@@ -44,6 +44,6 @@ export default function AboutSection() {
           />
         </div>
       </div>
-    </div>
+    </>
   );
 }
